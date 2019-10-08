@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Name Generator.unity
-    guid: cd910f690d0ee9d4392ccd170e69f32d
+    path: Assets/Scenes/CreateCubes.unity
+    guid: 4f1b4814ff1ba0d4bb10e6c808639eb5
   m_configObjects: {}
