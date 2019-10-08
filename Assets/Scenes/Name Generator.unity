@@ -754,38 +754,34 @@ MonoBehaviour:
         intValues: 
         boolValues: 
         stringValues:
-        - "Au\xDFenegg Elias"
-        - Bachleinter Nicolas
-        - Distler Niklas
-        - Feldbacher Simone
-        - Gerum Richard
-        - "G\xF6tte Victoria"
-        - Hatz Noah
-        - Helbok Lea
+        - ahoerack03
+        - Dejan01
+        - feldbacherSimone
+        - gerum1
+        - GoetteVictoria
+        - HATZ01
         - Hell Lisa Marie
-        - Hoerack Anna Katharina
-        - Illig Melissa
-        - Innerlohninger Eva
-        - Just Mara
-        - Karlhuber Robin
-        - Klickovic Dejan
-        - Korb Nicolas
-        - Kreutzer Hubert
-        - Kronberger Sebastian
-        - Liebisch Letitia
-        - Maringer Nina
-        - Marko Luis
-        - Moeseneder Roman
-        - Niedermaier Moritz
-        - Ostroznik Phillip
-        - Passini Leonhard
-        - Reisinger Kilian
-        - Schider Felix
-        - Stienitzka Maximilian
-        - Streitberger Jana
-        - Trampitsch Mira
-        - Wildmann Lukas
-        - Zwingenberger Stefanie
+        - Hubert Kreutzer
+        - Inner-e
+        - kilianreisinger
+        - Kronberger
+        - LeonhardPassini
+        - Lea Helbok
+        - LuisMarko
+        - LukiWil
+        - MaraJust
+        - Maringernina
+        - MaxStienitzka
+        - millig0910
+        - NicoB
+        - niklasdistler
+        - Niko1803
+        - Postroznik
+        - RKarlhuber
+        - romanmoeseneder
+        - schiderf
+        - SteffiZwing
+        - trampimi
         vector4Values: []
         objectReferences: []
       enumVariables: []
